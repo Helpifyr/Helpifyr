@@ -20,11 +20,11 @@ Contributor agrees to keep confidential all confidential and proprietary informa
 
 ## Term and Termination
 
-This Agreement shall commence on the Effective Date and shall continue until terminated by either party upon [notice period] days' written notice. Upon termination, Contributor shall have no further right to receive any compensation under this Agreement.
+This Agreement shall commence on the Effective Date and shall continue until terminated by either party upon one year's written notice. Upon termination, Contributor shall have no further right to receive any compensation under this Agreement.
 
 ## Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of [state/country]. Any dispute arising out of or in connection with this Agreement shall be submitted to the exclusive jurisdiction of the courts of [state/country].
+This Agreement shall be governed by and construed in accordance with the laws of Austria. Any dispute arising out of or in connection with this Agreement shall be submitted to the exclusive jurisdiction of the courts of Vienna, Austria.
 
 ## Entire Agreement
 
