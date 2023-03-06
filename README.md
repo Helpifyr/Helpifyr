@@ -1,5 +1,5 @@
 # Jada Helpifry
-## Your Personal Assistant tt
+## Your Personal Assistant
 
 Jada Helpifyr is a new mobile app that serves as a personal assistant to help users manage their daily tasks and activities. The app features advanced technology that includes ChatGPT integration, speech to text, GPT-3 to DALL-E, text translation, text to API, and text to speech capabilities. Jada Helpifyr is designed to be user-friendly and easily accessible, with a well-designed user interface that prioritizes visual and usability.
 
