@@ -1,6 +1,6 @@
 # Collaboration Agreement for Open Source Project Contribution
 
-This agreement ("Agreement") is made and entered into as of [date] (the "Effective Date") by and between Anyfer GmbH, a Baden/Austria corporation, with its principal place of business at Elisabethstr. 44, 2500 Baden, Austria ("Company") and [YOU], residing at [address] ("Contributor").
+This agreement ("Agreement") is made and entered into as of [date] (the "Effective Date") by and between Anyfer GmbH, a Baden/Austria corporation, with its principal place of business at Elisabethstr. 44, 2500 Baden, Austria ("Company") and [YOU], residing at [address] ("Contributor"). 
 
 ## Scope of Work
 
