@@ -26,7 +26,16 @@ To install Jada Helpifyr, follow these steps:
 
 ## Features
 
- - Create reminders  
+ - Speech-to-text and text-to-speech conversion
+ - Text translation
+ - Integration with popular messaging apps like WhatsApp, Telegram, and Facebook Messenger
+ - Integration with social media platforms like Facebook, Twitter, and LinkedIn
+ - Integration with weather APIs to provide up-to-date weather information
+ - Task scheduler for repeating tasks and anniversaries
+ - Workflow builder and community workflows
+ - Integration with popular password managers like RoboForm
+ - Personal information management through contacts and sensors
+ - Access to a shop with approved integrations- Create reminders  
  - Schedule events  
  - Manage to-do lists  
  - Ask general knowledge questions  
