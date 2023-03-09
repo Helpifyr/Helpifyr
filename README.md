@@ -21,8 +21,8 @@ Jada Helpifyr is an open-source personal assistant designed to help you with eve
 To install Jada Helpifyr, follow these steps:
 
  1. Clone the repository to your local machine. 
- 2. Install the required dependencies by running npm install in your terminal. 
- 3. Start the app by running npm start in your terminal.
+ 2. Install the required dependencies by running `npm install` in your terminal. 
+ 3. Start the app by running `npm start` in your terminal.
 
 ## Features
 
