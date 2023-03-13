@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4943163470",
+    "project_id": "jadahelpifyr-3e716",
+    "storage_bucket": "jadahelpifyr-3e716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4943163470:android:6662539f192c97f456d31f",
+        "android_client_info": {
+          "package_name": "com.example.jada_helpifyr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4943163470-sh90adnrb9munu0la8b98ag2t9a16uvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxsRAcJwF8shWMK3MG-bLUePfUTN20WyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4943163470-sh90adnrb9munu0la8b98ag2t9a16uvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
