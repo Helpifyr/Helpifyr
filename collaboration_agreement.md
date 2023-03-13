@@ -22,7 +22,7 @@ Contributor agrees to keep confidential all confidential and proprietary informa
 
 This Agreement shall commence on the Effective Date and shall continue until terminated by either party upon one year's written notice. Upon termination, Contributor shall have no further right to receive any compensation under this Agreement.
 
-If the Contributor becomes employed by the Company, this Agreement shall be replaced by the employment agreement between Helpifyr and the Contributor, and this Agreement shall no longer be valid.
+If the Contributor becomes employed by the Company, this Agreement shall be replaced by the employment agreement between the Company and the Contributor, and this Agreement shall no longer be valid.
 
 ## Governing Law and Jurisdiction
 
