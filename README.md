@@ -1,3 +1,4 @@
+
 # Jada Helpifyr
 ## Your Personal Assistant
 
@@ -16,6 +17,9 @@ Finally, Jada Helpifyr includes legal features such as terms of use, terms of se
 # Jada Helpifyr
 
 Jada Helpifyr is an open-source personal assistant designed to help you with everyday tasks. With Jada Helpifyr, you can create reminders, schedule events, and manage your to-do list all in one place.
+# Join this open source project
+
+If you like to join  and contribute to this open source project, than please use this discord invite link to join our discord community where we all work together. [https://discord.gg/WPc966Th4d](https://discord.gg/WPc966Th4d "https://discord.gg/WPc966Th4d")
 
 ## Installation
 To install Jada Helpifyr, follow these steps:
