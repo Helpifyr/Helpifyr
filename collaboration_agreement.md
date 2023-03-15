@@ -12,7 +12,7 @@ In consideration for Contributor's services, the only compensation to be provide
 
 ## Ownership of Work
 
-Contributor agrees that all code, documentation, and other work created or contributed by Contributor in connection with the Project, whether in whole or in part, shall be the exclusive property of Company. Contributor hereby irrevocably assigns to Company all right, title, and interest in and to all such work, including all intellectual property rights therein.
+Contributor agrees that all code, documentation, and other work created or contributed by Contributor in connection with the Project, whether in whole or in part, shall be subject to the terms and conditions of the MIT Open Source license. Contributor hereby grants to Company and all other users of the Project a non-exclusive, worldwide, royalty-free license to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the work, and to permit persons to whom the work is furnished to do so, subject to the conditions of the MIT Open Source license.
 
 ## Confidentiality
 
